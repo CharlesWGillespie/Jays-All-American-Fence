@@ -66,3 +66,8 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.JAAF-h1 {
+  font-size: 7.4em;
+  line-height: 1.2;
+}
